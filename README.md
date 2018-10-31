@@ -1,17 +1,14 @@
 # Cajun-Food-Game
-trivia game using Cajun food.
-You'll create a trivia form with multiple choice or true/false options (your choice).
 
-The player will have a limited amount of time to finish the quiz. 
+Trivia game using Cajun food.
 
+https://chaseholladay.github.io/Cajun-Trivia-Game/
 
-The game ends when the time runs out. The page will reveal the number of questions that players answer correctly and incorrectly.
+How It Works
+The player will have a limited amount of time to finish the quiz. The game ends when the time runs out. The page will reveal the number of questions that players answer correctly and incorrectly.
 
-
-Don't let the player pick more than one answer per question.
-Don't forget to include a countdown timer.
-
-
+Technologies Used
+A JavaScript trivia game that uses JavaScript timing events for each question and jQuery to dynamically generate HTML.
 
 <!-- working on the music  -->
 
